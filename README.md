@@ -1,0 +1,1 @@
+This project focuses on the creation of a robust data model for a clinical system using SQL Server Management Studio (SSMS). The objective is to design a database structure that ensures data integrity, efficiency, and supports the specific requirements of a clinical environment.
